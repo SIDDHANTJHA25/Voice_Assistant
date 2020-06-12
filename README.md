@@ -18,7 +18,13 @@ If you are unable to install pyaudio then i had given build path/wheel file of p
 
 You give the voice command and the output generates.                                     
 
+# Output(Open Google):
+
+![Jarvis(open google)](https://user-images.githubusercontent.com/66818761/84494111-8c907180-acc6-11ea-9666-adc1c7f3f34e.png)
 
 
+# Output(Open Youtube):
+
+![Jarvis(open youtube)](https://user-images.githubusercontent.com/66818761/84494187-adf15d80-acc6-11ea-9b56-dc36133b0c30.png)
 
 
